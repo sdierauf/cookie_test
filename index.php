@@ -12,6 +12,7 @@
 <html>
     <body>
         <h1>HI!</h1>
+        <h2><?php checkCookie() ?></h2>
         <form action="getcookie.php" method="post">
             <div><input type="submit" value="get a cookie" /></div>
         </form>

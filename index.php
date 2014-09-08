@@ -13,7 +13,7 @@
     <body>
         <h1>HI!</h1>
         <form action="getcookie.php" method="post">
-            <input type="submit" value "get a cookie" />
+            <div><input type="submit" value="get a cookie" /></div>
         </form>
     </body>
 </html>
